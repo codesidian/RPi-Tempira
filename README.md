@@ -22,7 +22,7 @@ Ideally have everything wired together, but due to my current circumstances I ca
 Current plan for connectivity:
 - Each sensor array wired into an ESP32 for monitoring which will send heartbeat requests, trigger request, and tamper requests. 
 - Raspberry pi 4 will be set as a hidden network which the ESP32s will be connected to. Everything will happen over that netowrk. 
-- The server will allow users to monitor the system globally (monitor, not disable).   
+- The server will allow authenticated users to monitor the system globally (monitor, not disable).   
 
 Threats:
 - Signal jamming:
