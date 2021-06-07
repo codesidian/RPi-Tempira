@@ -14,7 +14,7 @@ Currently prototyping and plans outlines the following:
 
 - Safe Room:
   - Solenoid locked door. Alarm sets 4 on each cornor to lock the door in place. 
-  - 3 factor authentication. Something you have (key card or fob) something you know (keypad) and something you have (finger print).
+  - 3 factor authentication. Something you have (key card or fob) something you know (keypad) and something you are (finger print).
   - Camera on the door's exterior with a screen to monitor it in the room. 
   - Two-way communication via microphone and speaker. 
 
